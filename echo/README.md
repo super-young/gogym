@@ -37,7 +37,7 @@ func main() {
 + [for ... range](https://golang.org/doc/effective_go.html#for)
 + [fmt.Print](https://golang.org/pkg/fmt/#Print)
 
-## Tests
+## Examples
 
 ```
 $ go run echo.go hello

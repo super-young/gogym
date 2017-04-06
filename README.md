@@ -5,3 +5,4 @@
 * [wget](wget) - download http content to a file
 * [gzcat](gzcat) - decompress and cat a gzipped file
 * [filehttp](filehttp) - a simple http server that serves files
+* [jsonpretty](jsonpretty) - a JSON pretty printer.

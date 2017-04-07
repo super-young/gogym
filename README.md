@@ -9,3 +9,4 @@
 * [du](du) - count number of bytes of files
 * [digest](digest) - calculate cryptographic digest of data
 * [gensecret](gensecret) - generate cryptographically secured secret
+* [grep](grep) - regular expression search of lines

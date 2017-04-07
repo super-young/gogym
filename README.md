@@ -8,3 +8,4 @@
 * [jsonpretty](jsonpretty) - a JSON pretty printer.
 * [du](du) - count number of bytes of files
 * [digest](digest) - calculate cryptographic digest of data
+* [gensecret](gensecret) - generate cryptographically secured secret
